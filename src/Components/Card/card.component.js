@@ -1,5 +1,5 @@
 import React from 'react';
-import './card.styles.scss';
+import './card.styles.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {FileBreak, Printer, ExclamationCircleFill, CaretDown } from 'react-bootstrap-icons';
 function CardComponent( props ) {
